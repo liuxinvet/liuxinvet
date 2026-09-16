@@ -1,0 +1,8 @@
+# 点播采集源候选清单（海阔式固定入口）
+# 每行一个 MacCMS 标准采集接口，按优先级排序；失效可随时编辑本文件，客户端零改动
+http://cj.lziapi.com/api.php/provide/vod/
+http://ffzy5.tv/api.php/provide/vod/
+https://xsd.sdzyapi.com/api.php/provide/vod/
+https://bfzyapi.com/api.php/provide/vod/
+https://jszyapi.com/api.php/provide/vod/
+https://taopianapi.com/cjapi/mc/vod/json.html
